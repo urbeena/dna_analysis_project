@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+requests
+pydantic
+python-multipart
+streamlit # optional for later use 
